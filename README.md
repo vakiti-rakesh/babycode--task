@@ -59,13 +59,6 @@ npm install
 # 4️⃣ Start the development server
 npm run dev
 
-🌈 Preview
-
-Here’s a glimpse of the homepage layout (replace with your deployed site link or screenshot):
-
-🔗 Live Demo → https://<your-username>.github.io/ielts-institute-homepage
-
-🖼️ Screenshot → (add image here)
 
 🧠 Learning Outcomes
 
